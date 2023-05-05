@@ -13,8 +13,12 @@ para poderlas utilizar en un futuro en los proyectos que vaya a participar
 
 <details>
 <summary>THINGS-TO-RANK</summary>
-
-YOUR TABLE
+  
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|               |
+|     2|               |
+|     3|               |
 
 </details>
 
