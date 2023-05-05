@@ -9,3 +9,13 @@ para poderlas utilizar en un futuro en los proyectos que vaya a participar
 |     1|               |
 |     2|               |
 |     3|               |
+
+
+<details>
+<summary>THINGS-TO-RANK</summary>
+
+YOUR TABLE
+
+</details>
+
+<details open>
